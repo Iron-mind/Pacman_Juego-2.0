@@ -832,7 +832,9 @@ var processingInstance = new Processing(canvas, sketchProc);
  * 
  * 
  * 
- * Agradecemos al profesor jefferson  por instruirnos en el curso FDP * y en   la creacion del videojuego. * * Profe que no se nos olvide:
+ * Agradecemos al profesor jefferson  por instruirnos en el curso FDP * y en   la creacion del videojuego. *
+ 
+ *  Profe que no se nos olvide:
  *  *          | 
  * *           | 
              \ | / 
